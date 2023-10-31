@@ -1,0 +1,210 @@
+html {
+    box-sizing:border-box;
+}
+
+*, *:before, *:after {
+    box-sizing:inherit;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    font-family: 'Merriweather', serif;
+
+    }
+
+    .left{
+        background-color: #ED0D6C;
+    }
+
+    .BTT{
+        background-color: #6EC9C5;
+        font-size: 30px;
+        text-align: center;
+        height: 80px;
+        position: fixed;
+        width: 200px;
+    }
+    .Nav{
+        background-color: #FFE244;
+        margin: 10px;
+        position: fixed;
+        width: 180px;
+        height: 40px;
+    }
+
+    .N1{
+        top: 90px;
+    }
+
+    .N2{
+        top: 140px;
+    }
+
+    .N3{
+        top: 190px;
+    }
+
+    .N4{
+        top: 240px;
+    }
+
+    .Alphabet{
+        font-size: 40px;
+        text-align: center;
+        font-weight: bold;
+        top: 290px;
+    }    
+
+    .BG{
+        background-color: #361F59;
+        z-index: -10;
+    }
+
+    .Merriweather{
+        position: relative;
+        background-color: #FFE244;
+        right: -20%;
+        margin: 50px;
+        text-align: center;
+        font-size: 50px;
+        width: 1000px ;
+        height: 200px;
+    }
+
+    .History{
+        background-color: #F2686D;
+        font-size: 40px;
+        width: 70%;
+        margin: 15px;
+        padding-bottom: 111px;
+        padding-left: 80px;
+        padding-top: 20px;
+        z-index: 1;
+    }
+
+    .Words{
+        position: relative;
+        background-color: #00C0E5;
+        width: 74% ;
+        height: 770px;
+        right: -233px;
+        top: -88px;
+        z-index: -1;
+    }
+
+    .Word1{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+    .Word2{
+        font-size: 50px;
+        font-weight: lighter;
+        position: relative;
+        right: -1133px;
+        top: 24px;
+        z-index: 5;
+    }
+
+    .Word3{
+        font-size: 70px;
+        font-style: italic ;
+        font-weight: bolder;
+        position: relative;
+        right: -713px;
+        top: 80px;
+        z-index: 5;
+    }
+
+    .Word4{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+    .Word5{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+    .Word6{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+    .Word7{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+    .Word8{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+    .Word9{
+        font-size: 80px;
+        font-style: italic ;
+        position: relative;
+        right: -133px;
+        top: 84px;
+        z-index: 5;
+    }
+
+
+
+
+
+    .LI1{
+        position: relative;
+        right: -333px;
+        background-color: #FFE244;
+        font-weight: lighter;
+        font-size: 30px;
+        width: 62%;
+
+    }
+
+    .LI2{
+        background-color: #F2686D;
+        font-weight: bolder;
+        font-style: italic;
+        font-size: 15px;
+
+    }
+
+    .LI3{
+        background-color: #6EC9C5;
+        font-style: italic;
+        font-size: 50px;
+    }
