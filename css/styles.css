@@ -93,14 +93,14 @@ img {
         position: relative;
         background-color: #00C0E5;
         width: 74% ;
-        height: 770px;
+        height: 970px;
         right: -233px;
-        top: -88px;
+        top: -138px;
         z-index: -1;
     }
 
     .Word1{
-        font-size: 80px;
+        font-size: 60px;
         font-style: italic ;
         position: relative;
         right: -133px;
@@ -129,19 +129,19 @@ img {
 
     .Word4{
         font-size: 80px;
-        font-style: italic ;
+        font-weight: bold;
         position: relative;
-        right: -133px;
-        top: 84px;
+        right: -213px;
+        top: -90px;
         z-index: 5;
     }
 
     .Word5{
-        font-size: 80px;
-        font-style: italic ;
+        font-size: 30px;
+        font-weight: bolder;
         position: relative;
-        right: -133px;
-        top: 84px;
+        right: -35px;
+        top: 5px;
         z-index: 5;
     }
 
@@ -149,7 +149,7 @@ img {
         font-size: 80px;
         font-style: italic ;
         position: relative;
-        right: -133px;
+        right: -933px;
         top: 84px;
         z-index: 5;
     }
@@ -159,7 +159,7 @@ img {
         font-style: italic ;
         position: relative;
         right: -133px;
-        top: 84px;
+        top: 64px;
         z-index: 5;
     }
 
